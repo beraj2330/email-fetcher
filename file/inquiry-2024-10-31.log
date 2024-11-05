@@ -1,0 +1,1162 @@
+2024-10-31 00:02:12 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"WhatsApp Inquiry","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"nmuksiar_21@yahoo.com","ExhibitionId":0,"InterestedIn":"81575468","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"8014623882","Password":"","PersonName":"","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":4974,"Website":""}
+2024-10-31 00:02:12 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user nmuksiar_21@yahoo.com"
+2024-10-31 00:02:12 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 00:02:13 [INFO]  : Inquiry type: Tender 
+Message: "Check nmuksiar_21@yahoo.com Unsubscribed for Email: No"
+2024-10-31 00:02:13 [INFO]  : Inquiry type: Tender 
+Message: "Check nmuksiar_21@yahoo.com already varified: Yes"
+2024-10-31 00:02:13 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: nmuksiar_21@yahoo.com"
+2024-10-31 00:02:13 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 8014623882"
+2024-10-31 00:02:13 [INFO]  : Inquiry type: Tender 
+Message: "nmuksiar_21@yahoo.com : Not Registered"
+2024-10-31 00:23:27 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Soham infra projects ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"yuvraj.5755@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"Excavation tenders ","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"8975286362","Password":"","PersonName":"Yuvraj Marne ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1449,"Website":""}
+2024-10-31 00:23:27 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user yuvraj.5755@gmail.com"
+2024-10-31 00:23:27 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":3,\"UserId\":710554,\"UserSubscriptionDetailId\":199037,\"OrderNo\":\"848095\"}],\"StatusCode\":200}"
+2024-10-31 00:23:28 [INFO]  : Inquiry type: Tender 
+Message: "Check yuvraj.5755@gmail.com Unsubscribed for Email: No"
+2024-10-31 00:23:28 [INFO]  : Inquiry type: Tender 
+Message: "Check yuvraj.5755@gmail.com already varified: Yes"
+2024-10-31 00:23:28 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: yuvraj.5755@gmail.com"
+2024-10-31 00:23:28 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 8975286362"
+2024-10-31 00:23:28 [INFO]  : Inquiry type: Tender 
+Message: "yuvraj.5755@gmail.com : Subscription Done Payment Pending"
+2024-10-31 00:28:52 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Premier Conveyors Private Limited ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"aggarwalmridul2005@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"Buyers for Rubber Conveyor Belt","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7506075003","Password":"","PersonName":"Mr. Mridul Aggarwal","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1449,"Website":""}
+2024-10-31 00:28:52 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user aggarwalmridul2005@gmail.com"
+2024-10-31 00:28:52 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 00:28:53 [INFO]  : Inquiry type: Tender 
+Message: "Check aggarwalmridul2005@gmail.com Unsubscribed for Email: No"
+2024-10-31 00:28:53 [INFO]  : Inquiry type: Tender 
+Message: "Check aggarwalmridul2005@gmail.com already varified: Yes"
+2024-10-31 00:28:53 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: aggarwalmridul2005@gmail.com"
+2024-10-31 00:28:53 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7506075003"
+2024-10-31 00:28:53 [INFO]  : Inquiry type: Tender 
+Message: "aggarwalmridul2005@gmail.com : Not Registered"
+2024-10-31 00:31:17 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Premier Conveyors Private Limited","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"aggarwalmridul2005@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"Searching Buyer for Rubber Conveyor Belts","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7506075003","Password":"","PersonName":"7506075003","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1449,"Website":""}
+2024-10-31 00:31:17 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user aggarwalmridul2005@gmail.com"
+2024-10-31 00:31:17 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":3,\"UserId\":1493560,\"UserSubscriptionDetailId\":226975,\"OrderNo\":\"877516\"}],\"StatusCode\":200}"
+2024-10-31 00:31:19 [INFO]  : Inquiry type: Tender 
+Message: "Check aggarwalmridul2005@gmail.com Unsubscribed for Email: No"
+2024-10-31 00:31:19 [INFO]  : Inquiry type: Tender 
+Message: "Check aggarwalmridul2005@gmail.com already varified: No"
+2024-10-31 00:31:19 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: aggarwalmridul2005@gmail.com"
+2024-10-31 00:31:19 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7506075003"
+2024-10-31 00:31:19 [INFO]  : Inquiry type: Tender 
+Message: "aggarwalmridul2005@gmail.com : Subscription Done Payment Pending"
+2024-10-31 01:50:21 [INFO]  : Inquiry type: GeM_Bidding regiser form data:-  
+Message: {"City":"","CompanyName":"Selyan projects ","CompanyServiceID":4,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"mustakimshajid11@gmail.com","EventType":"","ExhibitionId":0,"InterestedIn":"Demo","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9365549440","Password":"","PersonName":"Shajid Mustakim","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1432,"Website":""}
+2024-10-31 01:50:21 [INFO]  : Inquiry type: GeM_Bidding 
+Message: "Mail Sent to sales team for user mustakimshajid11@gmail.com"
+2024-10-31 01:50:21 [INFO]  : Inquiry type: GeM_Bidding 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 01:50:22 [INFO]  : Inquiry type: GeM_Bidding 
+Message: "Check mustakimshajid11@gmail.com Unsubscribed for Email: No"
+2024-10-31 01:50:23 [INFO]  : Inquiry type: GeM_Bidding 
+Message: "Check mustakimshajid11@gmail.com already varified: Yes"
+2024-10-31 01:50:23 [INFO]  : Inquiry type: GeM_Bidding 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: mustakimshajid11@gmail.com"
+2024-10-31 01:50:23 [INFO]  : Inquiry type: GeM_Bidding 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9365549440"
+2024-10-31 01:50:23 [INFO]  : Inquiry type: GeM_Bidding 
+Message: "mustakimshajid11@gmail.com : Not Registered"
+2024-10-31 05:08:04 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"TOWERLINK NETWORK PRIVATE LIMITED","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"dishanjha03@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"8100264656","Password":"","PersonName":"Deepak Kumar Jha","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1463,"Website":""}
+2024-10-31 05:08:04 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user dishanjha03@gmail.com"
+2024-10-31 05:08:04 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1489428,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 05:08:06 [INFO]  : Inquiry type: Tender 
+Message: "Check dishanjha03@gmail.com Unsubscribed for Email: No"
+2024-10-31 05:08:06 [INFO]  : Inquiry type: Tender 
+Message: "Check dishanjha03@gmail.com already varified: No"
+2024-10-31 05:08:06 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: dishanjha03@gmail.com"
+2024-10-31 05:08:06 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 8100264656"
+2024-10-31 05:08:06 [INFO]  : Inquiry type: Tender 
+Message: "dishanjha03@gmail.com : Registration Done Subscription Pending"
+2024-10-31 05:13:12 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"TOWERLINK NETWORK PRIVATE LIMITED","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"dishanjha03@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"8100264656","Password":"","PersonName":"Deepak Kumar Jha","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1463,"Website":""}
+2024-10-31 05:13:12 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user dishanjha03@gmail.com"
+2024-10-31 05:13:12 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1489428,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 05:13:13 [INFO]  : Inquiry type: Tender 
+Message: "Check dishanjha03@gmail.com Unsubscribed for Email: No"
+2024-10-31 05:13:13 [INFO]  : Inquiry type: Tender 
+Message: "Check dishanjha03@gmail.com already varified: No"
+2024-10-31 05:13:13 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: dishanjha03@gmail.com"
+2024-10-31 05:13:13 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 8100264656"
+2024-10-31 05:13:13 [INFO]  : Inquiry type: Tender 
+Message: "dishanjha03@gmail.com : Registration Done Subscription Pending"
+2024-10-31 07:44:00 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"WhatsApp Inquiry","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"mohinkhan.in@gmail.com","ExhibitionId":0,"InterestedIn":"82086411","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9149295452","Password":"","PersonName":"","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":4974,"Website":""}
+2024-10-31 07:44:00 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user mohinkhan.in@gmail.com"
+2024-10-31 07:44:00 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 07:44:01 [INFO]  : Inquiry type: Tender 
+Message: "Check mohinkhan.in@gmail.com Unsubscribed for Email: No"
+2024-10-31 07:44:01 [INFO]  : Inquiry type: Tender 
+Message: "Check mohinkhan.in@gmail.com already varified: Yes"
+2024-10-31 07:44:01 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: mohinkhan.in@gmail.com"
+2024-10-31 07:44:01 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9149295452"
+2024-10-31 07:44:01 [INFO]  : Inquiry type: Tender 
+Message: "mohinkhan.in@gmail.com : Not Registered"
+2024-10-31 08:22:13 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"CRUSTAL GEOTEECHNICS","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"AMYA309@GMAIL.COM","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9823456665","Password":"","PersonName":"AMIT","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1449,"Website":""}
+2024-10-31 08:22:13 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user AMYA309@GMAIL.COM"
+2024-10-31 08:22:13 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":985095,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 08:22:14 [INFO]  : Inquiry type: Tender 
+Message: "Check AMYA309@GMAIL.COM Unsubscribed for Email: Yes"
+2024-10-31 08:22:14 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9823456665"
+2024-10-31 08:22:14 [INFO]  : Inquiry type: Tender 
+Message: "AMYA309@GMAIL.COM : Registration Done Subscription Pending"
+2024-10-31 08:48:24 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"M.E SERVICES","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"vinaymandali96@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"8179293238","Password":"","PersonName":"VINAY BHANU","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1430,"Website":""}
+2024-10-31 08:48:24 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user vinaymandali96@gmail.com"
+2024-10-31 08:48:24 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 08:48:25 [INFO]  : Inquiry type: Tender 
+Message: "Check vinaymandali96@gmail.com Unsubscribed for Email: No"
+2024-10-31 08:48:25 [INFO]  : Inquiry type: Tender 
+Message: "Check vinaymandali96@gmail.com already varified: Yes"
+2024-10-31 08:48:25 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: vinaymandali96@gmail.com"
+2024-10-31 08:48:25 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 8179293238"
+2024-10-31 08:48:25 [INFO]  : Inquiry type: Tender 
+Message: "vinaymandali96@gmail.com : Not Registered"
+2024-10-31 09:14:55 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Prashant Computer Solution","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"prashantdhaple@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"cctv computer networking","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7020242598","Password":"","PersonName":"Prashant Dhaple","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1449,"Website":""}
+2024-10-31 09:14:55 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user prashantdhaple@gmail.com"
+2024-10-31 09:14:55 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 09:14:56 [INFO]  : Inquiry type: Tender 
+Message: "Check prashantdhaple@gmail.com Unsubscribed for Email: No"
+2024-10-31 09:14:56 [INFO]  : Inquiry type: Tender 
+Message: "Check prashantdhaple@gmail.com already varified: Yes"
+2024-10-31 09:14:56 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: prashantdhaple@gmail.com"
+2024-10-31 09:14:56 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7020242598"
+2024-10-31 09:14:56 [INFO]  : Inquiry type: Tender 
+Message: "prashantdhaple@gmail.com : Not Registered"
+2024-10-31 09:19:09 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"WhatsApp Inquiry","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"arunku343@gmail.com","ExhibitionId":0,"InterestedIn":"78372906","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9835735839","Password":"","PersonName":"","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":4974,"Website":""}
+2024-10-31 09:19:09 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user arunku343@gmail.com"
+2024-10-31 09:19:09 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 09:19:10 [INFO]  : Inquiry type: Tender 
+Message: "Check arunku343@gmail.com Unsubscribed for Email: No"
+2024-10-31 09:19:10 [INFO]  : Inquiry type: Tender 
+Message: "Check arunku343@gmail.com already varified: Yes"
+2024-10-31 09:19:10 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: arunku343@gmail.com"
+2024-10-31 09:19:10 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9835735839"
+2024-10-31 09:19:10 [INFO]  : Inquiry type: Tender 
+Message: "arunku343@gmail.com : Not Registered"
+2024-10-31 09:26:13 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Rajshree concrete products ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"arunku343@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":2,"InterestedIn":"Boq","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9835735839","Password":"","PersonName":"Arun Kumar","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1444,"Website":""}
+2024-10-31 09:26:13 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user arunku343@gmail.com"
+2024-10-31 09:26:13 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1493565,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 09:26:14 [INFO]  : Inquiry type: Tender 
+Message: "Check arunku343@gmail.com Unsubscribed for Email: No"
+2024-10-31 09:26:14 [INFO]  : Inquiry type: Tender 
+Message: "Check arunku343@gmail.com already varified: No"
+2024-10-31 09:26:14 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: arunku343@gmail.com"
+2024-10-31 09:26:14 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9835735839"
+2024-10-31 09:26:15 [INFO]  : Inquiry type: Tender 
+Message: "arunku343@gmail.com : Registration Done Subscription Pending"
+2024-10-31 09:27:13 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Rajshree concrete products ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"arunku343@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"Boq","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9835735839","Password":"","PersonName":"Arun Kumar","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1444,"Website":""}
+2024-10-31 09:27:13 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user arunku343@gmail.com"
+2024-10-31 09:27:13 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1493565,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 09:27:14 [INFO]  : Inquiry type: Tender 
+Message: "Check arunku343@gmail.com Unsubscribed for Email: No"
+2024-10-31 09:27:14 [INFO]  : Inquiry type: Tender 
+Message: "Check arunku343@gmail.com already varified: No"
+2024-10-31 09:27:14 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: arunku343@gmail.com"
+2024-10-31 09:27:14 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9835735839"
+2024-10-31 09:27:14 [INFO]  : Inquiry type: Tender 
+Message: "arunku343@gmail.com : Registration Done Subscription Pending"
+2024-10-31 09:37:57 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Riyanscivilconstruction","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"riyanscivilconstruction@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":2,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7523989992","Password":"","PersonName":"Satyam vishwakarma ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1461,"Website":""}
+2024-10-31 09:37:57 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user riyanscivilconstruction@gmail.com"
+2024-10-31 09:37:57 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1491116,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 09:37:58 [INFO]  : Inquiry type: Tender 
+Message: "Check riyanscivilconstruction@gmail.com Unsubscribed for Email: No"
+2024-10-31 09:37:58 [INFO]  : Inquiry type: Tender 
+Message: "Check riyanscivilconstruction@gmail.com already varified: No"
+2024-10-31 09:37:58 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: riyanscivilconstruction@gmail.com"
+2024-10-31 09:37:58 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7523989992"
+2024-10-31 09:37:58 [INFO]  : Inquiry type: Tender 
+Message: "riyanscivilconstruction@gmail.com : Registration Done Subscription Pending"
+2024-10-31 09:45:37 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Riyanscivilconstruction","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"riyanscivilconstruction@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7523989992","Password":"","PersonName":"Satyam vishwakarma ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1461,"Website":""}
+2024-10-31 09:45:37 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user riyanscivilconstruction@gmail.com"
+2024-10-31 09:45:37 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1491116,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 09:45:38 [INFO]  : Inquiry type: Tender 
+Message: "Check riyanscivilconstruction@gmail.com Unsubscribed for Email: No"
+2024-10-31 09:45:38 [INFO]  : Inquiry type: Tender 
+Message: "Check riyanscivilconstruction@gmail.com already varified: No"
+2024-10-31 09:45:38 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: riyanscivilconstruction@gmail.com"
+2024-10-31 09:45:38 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7523989992"
+2024-10-31 09:45:38 [INFO]  : Inquiry type: Tender 
+Message: "riyanscivilconstruction@gmail.com : Registration Done Subscription Pending"
+2024-10-31 09:47:34 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Riyanscivilconstruction","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"riyanscivilconstruction@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7523989992","Password":"","PersonName":"7423989992","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1461,"Website":""}
+2024-10-31 09:47:34 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user riyanscivilconstruction@gmail.com"
+2024-10-31 09:47:34 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1491116,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 09:47:36 [INFO]  : Inquiry type: Tender 
+Message: "Check riyanscivilconstruction@gmail.com Unsubscribed for Email: No"
+2024-10-31 09:47:36 [INFO]  : Inquiry type: Tender 
+Message: "Check riyanscivilconstruction@gmail.com already varified: No"
+2024-10-31 09:47:36 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: riyanscivilconstruction@gmail.com"
+2024-10-31 09:47:36 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7523989992"
+2024-10-31 09:47:36 [INFO]  : Inquiry type: Tender 
+Message: "riyanscivilconstruction@gmail.com : Registration Done Subscription Pending"
+2024-10-31 10:15:16 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"jai maa construction","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"g.rajiv10@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7004378939","Password":"","PersonName":"RAJIV  KUMAR GUPTA","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1444,"Website":""}
+2024-10-31 10:15:16 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user g.rajiv10@gmail.com"
+2024-10-31 10:15:16 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1039409,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 10:15:17 [INFO]  : Inquiry type: Tender 
+Message: "Check g.rajiv10@gmail.com Unsubscribed for Email: No"
+2024-10-31 10:15:17 [INFO]  : Inquiry type: Tender 
+Message: "Check g.rajiv10@gmail.com already varified: No"
+2024-10-31 10:15:17 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: g.rajiv10@gmail.com"
+2024-10-31 10:15:17 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7004378939"
+2024-10-31 10:15:17 [INFO]  : Inquiry type: Tender 
+Message: "g.rajiv10@gmail.com : Registration Done Subscription Pending"
+2024-10-31 10:40:31 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Geo Climate Risk Solutions Pvt. Ltd","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"business@gcrs.co.in","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7997143593","Password":"","PersonName":"Daniel Sananth","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1430,"Website":""}
+2024-10-31 10:40:31 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user business@gcrs.co.in"
+2024-10-31 10:40:31 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":3,\"UserId\":1176078,\"UserSubscriptionDetailId\":162806,\"OrderNo\":\"811515\"}],\"StatusCode\":200}"
+2024-10-31 10:40:32 [INFO]  : Inquiry type: Tender 
+Message: "Check business@gcrs.co.in Unsubscribed for Email: Yes"
+2024-10-31 10:40:32 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7997143593"
+2024-10-31 10:40:32 [INFO]  : Inquiry type: Tender 
+Message: "business@gcrs.co.in : Subscription Done Payment Pending"
+2024-10-31 10:43:00 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Upacharya ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"mentalcareindia@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"I want to do this work ","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9123058163","Password":"","PersonName":"Ranjini Roy ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1461,"Website":""}
+2024-10-31 10:43:00 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user mentalcareindia@gmail.com"
+2024-10-31 10:43:00 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 10:43:02 [INFO]  : Inquiry type: Tender 
+Message: "Check mentalcareindia@gmail.com Unsubscribed for Email: No"
+2024-10-31 10:43:02 [INFO]  : Inquiry type: Tender 
+Message: "Check mentalcareindia@gmail.com already varified: Yes"
+2024-10-31 10:43:02 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: mentalcareindia@gmail.com"
+2024-10-31 10:43:02 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9123058163"
+2024-10-31 10:43:02 [INFO]  : Inquiry type: Tender 
+Message: "mentalcareindia@gmail.com : Not Registered"
+2024-10-31 10:44:02 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Matha track","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"venubabu@mathatrack.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"Pway railway siding","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7989721637","Password":"","PersonName":"Venu","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":3883,"Website":""}
+2024-10-31 10:44:02 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user venubabu@mathatrack.com"
+2024-10-31 10:44:02 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1248843,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 10:44:04 [INFO]  : Inquiry type: Tender 
+Message: "Check venubabu@mathatrack.com Unsubscribed for Email: No"
+2024-10-31 10:44:04 [INFO]  : Inquiry type: Tender 
+Message: "Check venubabu@mathatrack.com already varified: Yes"
+2024-10-31 10:44:04 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: venubabu@mathatrack.com"
+2024-10-31 10:44:04 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7989721637"
+2024-10-31 10:44:04 [INFO]  : Inquiry type: Tender 
+Message: "venubabu@mathatrack.com : Registration Done Subscription Pending"
+2024-10-31 11:00:50 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Geo Climate Risk Solutions Pvt. Ltd.","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"suraj@gcrs.co.in","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7583892688","Password":"","PersonName":"Suraj Nanneti","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1430,"Website":""}
+2024-10-31 11:00:50 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user suraj@gcrs.co.in"
+2024-10-31 11:00:50 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 11:00:51 [INFO]  : Inquiry type: Tender 
+Message: "Check suraj@gcrs.co.in Unsubscribed for Email: No"
+2024-10-31 11:00:51 [INFO]  : Inquiry type: Tender 
+Message: "Check suraj@gcrs.co.in already varified: Yes"
+2024-10-31 11:00:51 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: suraj@gcrs.co.in"
+2024-10-31 11:00:51 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7583892688"
+2024-10-31 11:00:51 [INFO]  : Inquiry type: Tender 
+Message: "suraj@gcrs.co.in : Not Registered"
+2024-10-31 11:14:18 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"BSB","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"BSGgalni@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9582278323","Password":"","PersonName":"","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1462,"Website":""}
+2024-10-31 11:14:18 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user BSGgalni@gmail.com"
+2024-10-31 11:14:18 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 11:14:19 [INFO]  : Inquiry type: Tender 
+Message: "Check BSGgalni@gmail.com Unsubscribed for Email: No"
+2024-10-31 11:14:19 [INFO]  : Inquiry type: Tender 
+Message: "Check BSGgalni@gmail.com already varified: Yes"
+2024-10-31 11:14:19 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: BSGgalni@gmail.com"
+2024-10-31 11:14:19 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9582278323"
+2024-10-31 11:14:19 [INFO]  : Inquiry type: Tender 
+Message: "BSGgalni@gmail.com : Not Registered"
+2024-10-31 11:34:20 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"BSB","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"BSGgalni@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9582278323","Password":"","PersonName":"BSB","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1462,"Website":""}
+2024-10-31 11:34:20 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user BSGgalni@gmail.com"
+2024-10-31 11:34:20 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1493568,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 11:34:21 [INFO]  : Inquiry type: Tender 
+Message: "Check BSGgalni@gmail.com Unsubscribed for Email: No"
+2024-10-31 11:34:21 [INFO]  : Inquiry type: Tender 
+Message: "Check BSGgalni@gmail.com already varified: No"
+2024-10-31 11:34:21 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: BSGgalni@gmail.com"
+2024-10-31 11:34:21 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9582278323"
+2024-10-31 11:34:21 [INFO]  : Inquiry type: Tender 
+Message: "BSGgalni@gmail.com : Registration Done Subscription Pending"
+2024-10-31 11:44:03 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Alina global Pvt Ltd","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"pkparbinajio@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"8016839258","Password":"","PersonName":"ARMAN","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1463,"Website":""}
+2024-10-31 11:44:03 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user pkparbinajio@gmail.com"
+2024-10-31 11:44:03 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1456583,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 11:44:04 [INFO]  : Inquiry type: Tender 
+Message: "Check pkparbinajio@gmail.com Unsubscribed for Email: No"
+2024-10-31 11:44:04 [INFO]  : Inquiry type: Tender 
+Message: "Check pkparbinajio@gmail.com already varified: No"
+2024-10-31 11:44:04 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: pkparbinajio@gmail.com"
+2024-10-31 11:44:04 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 8016839258"
+2024-10-31 11:44:04 [INFO]  : Inquiry type: Tender 
+Message: "pkparbinajio@gmail.com : Registration Done Subscription Pending"
+2024-10-31 11:48:06 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"jay ganesh manohar enterprises","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"jayganesh500@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"8828132488","Password":"","PersonName":"nitin patil","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1449,"Website":""}
+2024-10-31 11:48:06 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user jayganesh500@gmail.com"
+2024-10-31 11:48:06 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":32361,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 11:48:08 [INFO]  : Inquiry type: Tender 
+Message: "Check jayganesh500@gmail.com Unsubscribed for Email: No"
+2024-10-31 11:48:08 [INFO]  : Inquiry type: Tender 
+Message: "Check jayganesh500@gmail.com already varified: No"
+2024-10-31 11:48:08 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: jayganesh500@gmail.com"
+2024-10-31 11:48:08 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 8828132488"
+2024-10-31 11:48:08 [INFO]  : Inquiry type: Tender 
+Message: "jayganesh500@gmail.com : Registration Done Subscription Pending"
+2024-10-31 12:03:23 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Carpenter ","CompanyServiceID":0,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"sandeshkumarprajapati93@gmail.com","EventType":"SampleInquiryForm","ExhibitionId":0,"InquiryType":0,"InterestedIn":"Carpenter ka tender  kaise milega ","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9305158472","Password":"","PersonName":"Sandesh Kumar Prajapati ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1461,"Website":""}
+2024-10-31 12:03:23 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user sandeshkumarprajapati93@gmail.com"
+2024-10-31 12:03:23 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 12:03:24 [INFO]  : Inquiry type: Tender 
+Message: "Check sandeshkumarprajapati93@gmail.com Unsubscribed for Email: No"
+2024-10-31 12:03:24 [INFO]  : Inquiry type: Tender 
+Message: "Check sandeshkumarprajapati93@gmail.com already varified: Yes"
+2024-10-31 12:03:24 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: sandeshkumarprajapati93@gmail.com"
+2024-10-31 12:03:24 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9305158472"
+2024-10-31 12:03:24 [INFO]  : Inquiry type: Tender 
+Message: "sandeshkumarprajapati93@gmail.com : Not Registered"
+2024-10-31 12:05:41 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"SRC","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"abhitayal481@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"8770045489","Password":"","PersonName":"","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1448,"Website":""}
+2024-10-31 12:05:41 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user abhitayal481@gmail.com"
+2024-10-31 12:05:41 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1198167,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 12:05:42 [INFO]  : Inquiry type: Tender 
+Message: "Check abhitayal481@gmail.com Unsubscribed for Email: No"
+2024-10-31 12:05:42 [INFO]  : Inquiry type: Tender 
+Message: "Check abhitayal481@gmail.com already varified: Yes"
+2024-10-31 12:05:42 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: abhitayal481@gmail.com"
+2024-10-31 12:05:42 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 8770045489"
+2024-10-31 12:05:42 [INFO]  : Inquiry type: Tender 
+Message: "abhitayal481@gmail.com : Registration Done Subscription Pending"
+2024-10-31 12:07:52 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"BSB","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"BSGgalni@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9582278323","Password":"","PersonName":"BSB","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1462,"Website":""}
+2024-10-31 12:07:52 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user BSGgalni@gmail.com"
+2024-10-31 12:07:52 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1493568,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 12:07:54 [INFO]  : Inquiry type: Tender 
+Message: "Check BSGgalni@gmail.com Unsubscribed for Email: No"
+2024-10-31 12:07:54 [INFO]  : Inquiry type: Tender 
+Message: "Check BSGgalni@gmail.com already varified: No"
+2024-10-31 12:07:54 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: BSGgalni@gmail.com"
+2024-10-31 12:07:54 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9582278323"
+2024-10-31 12:07:54 [INFO]  : Inquiry type: Tender 
+Message: "BSGgalni@gmail.com : Registration Done Subscription Pending"
+2024-10-31 12:19:06 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"DEE PEE TRADERS","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"raghavg72@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"DESI GHEE ","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9419397733","Password":"","PersonName":"Raghav","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1443,"Website":""}
+2024-10-31 12:19:06 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user raghavg72@gmail.com"
+2024-10-31 12:19:06 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 12:19:07 [INFO]  : Inquiry type: Tender 
+Message: "Check raghavg72@gmail.com Unsubscribed for Email: No"
+2024-10-31 12:19:07 [INFO]  : Inquiry type: Tender 
+Message: "Check raghavg72@gmail.com already varified: Yes"
+2024-10-31 12:19:07 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: raghavg72@gmail.com"
+2024-10-31 12:19:07 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9419397733"
+2024-10-31 12:19:07 [INFO]  : Inquiry type: Tender 
+Message: "raghavg72@gmail.com : Not Registered"
+2024-10-31 12:22:40 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"DEE PEE TRADERS","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"raghavg72@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"desi ghee","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9419397733","Password":"","PersonName":"Raghav","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1443,"Website":""}
+2024-10-31 12:22:40 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user raghavg72@gmail.com"
+2024-10-31 12:22:40 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1493570,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 12:22:41 [INFO]  : Inquiry type: Tender 
+Message: "Check raghavg72@gmail.com Unsubscribed for Email: No"
+2024-10-31 12:22:41 [INFO]  : Inquiry type: Tender 
+Message: "Check raghavg72@gmail.com already varified: No"
+2024-10-31 12:22:41 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: raghavg72@gmail.com"
+2024-10-31 12:22:41 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9419397733"
+2024-10-31 12:22:41 [INFO]  : Inquiry type: Tender 
+Message: "raghavg72@gmail.com : Registration Done Subscription Pending"
+2024-10-31 13:26:54 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"WhatsApp Inquiry","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"zehranoori@gmail.com","ExhibitionId":0,"InterestedIn":"81065951","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9769397185","Password":"","PersonName":"","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":4974,"Website":""}
+2024-10-31 13:26:54 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user zehranoori@gmail.com"
+2024-10-31 13:26:55 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 13:26:56 [INFO]  : Inquiry type: Tender 
+Message: "Check zehranoori@gmail.com Unsubscribed for Email: No"
+2024-10-31 13:26:56 [INFO]  : Inquiry type: Tender 
+Message: "Check zehranoori@gmail.com already varified: Yes"
+2024-10-31 13:26:56 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: zehranoori@gmail.com"
+2024-10-31 13:26:56 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9769397185"
+2024-10-31 13:26:56 [INFO]  : Inquiry type: Tender 
+Message: "zehranoori@gmail.com : Not Registered"
+2024-10-31 13:29:30 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"M murugavalli construction ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"mmuniasamy1969@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9442122367","Password":"","PersonName":"M murugavalli ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1459,"Website":""}
+2024-10-31 13:29:30 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user mmuniasamy1969@gmail.com"
+2024-10-31 13:29:30 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1169540,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 13:29:32 [INFO]  : Inquiry type: Tender 
+Message: "Check mmuniasamy1969@gmail.com Unsubscribed for Email: No"
+2024-10-31 13:29:32 [INFO]  : Inquiry type: Tender 
+Message: "Check mmuniasamy1969@gmail.com already varified: Yes"
+2024-10-31 13:29:32 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: mmuniasamy1969@gmail.com"
+2024-10-31 13:29:32 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9442122367"
+2024-10-31 13:29:32 [INFO]  : Inquiry type: Tender 
+Message: "mmuniasamy1969@gmail.com : Registration Done Subscription Pending"
+2024-10-31 13:30:05 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Zingdigitalmedia","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"zehranoori@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"Digital Marketing","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9769397185","Password":"","PersonName":"Zehra","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1449,"Website":""}
+2024-10-31 13:30:05 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user zehranoori@gmail.com"
+2024-10-31 13:30:05 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1493571,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 13:30:07 [INFO]  : Inquiry type: Tender 
+Message: "Check zehranoori@gmail.com Unsubscribed for Email: No"
+2024-10-31 13:30:07 [INFO]  : Inquiry type: Tender 
+Message: "Check zehranoori@gmail.com already varified: No"
+2024-10-31 13:30:07 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: zehranoori@gmail.com"
+2024-10-31 13:30:07 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9769397185"
+2024-10-31 13:30:07 [INFO]  : Inquiry type: Tender 
+Message: "zehranoori@gmail.com : Registration Done Subscription Pending"
+2024-10-31 13:34:14 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Malik Engineering Works ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"sharukhchoudhary527673@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"Works","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7060257673","Password":"","PersonName":"Uk","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":4990,"Website":""}
+2024-10-31 13:34:14 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user sharukhchoudhary527673@gmail.com"
+2024-10-31 13:34:14 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1354976,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 13:34:16 [INFO]  : Inquiry type: Tender 
+Message: "Check sharukhchoudhary527673@gmail.com Unsubscribed for Email: No"
+2024-10-31 13:34:16 [INFO]  : Inquiry type: Tender 
+Message: "Check sharukhchoudhary527673@gmail.com already varified: Yes"
+2024-10-31 13:34:16 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: sharukhchoudhary527673@gmail.com"
+2024-10-31 13:34:16 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7060257673"
+2024-10-31 13:34:16 [INFO]  : Inquiry type: Tender 
+Message: "sharukhchoudhary527673@gmail.com : Registration Done Subscription Pending"
+2024-10-31 13:46:26 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Om enterprises ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"jogaramgodara09@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":2,"InterestedIn":"Vehicle hire","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7023443379","Password":"","PersonName":"JOGARAM choudhary ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1457,"Website":""}
+2024-10-31 13:46:26 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user jogaramgodara09@gmail.com"
+2024-10-31 13:46:26 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1394384,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 13:46:27 [INFO]  : Inquiry type: Tender 
+Message: "Check jogaramgodara09@gmail.com Unsubscribed for Email: No"
+2024-10-31 13:46:27 [INFO]  : Inquiry type: Tender 
+Message: "Check jogaramgodara09@gmail.com already varified: No"
+2024-10-31 13:46:27 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: jogaramgodara09@gmail.com"
+2024-10-31 13:46:27 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7023443379"
+2024-10-31 13:46:27 [INFO]  : Inquiry type: Tender 
+Message: "jogaramgodara09@gmail.com : Registration Done Subscription Pending"
+2024-10-31 13:59:14 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"PANJA CONSTRUCTION","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"narayan17march@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9732743288","Password":"","PersonName":"NARAYAN MAITY","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1463,"Website":""}
+2024-10-31 13:59:14 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user narayan17march@gmail.com"
+2024-10-31 13:59:14 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 13:59:15 [INFO]  : Inquiry type: Tender 
+Message: "Check narayan17march@gmail.com Unsubscribed for Email: No"
+2024-10-31 13:59:15 [INFO]  : Inquiry type: Tender 
+Message: "Check narayan17march@gmail.com already varified: Yes"
+2024-10-31 13:59:15 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: narayan17march@gmail.com"
+2024-10-31 13:59:15 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9732743288"
+2024-10-31 13:59:15 [INFO]  : Inquiry type: Tender 
+Message: "narayan17march@gmail.com : Not Registered"
+2024-10-31 14:22:32 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"BABA TOOLS AND PRODUCTS ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"ushamachine65@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":2,"InterestedIn":"Tander","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9899473165","Password":"","PersonName":"Yashpal Singh ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1441,"Website":""}
+2024-10-31 14:22:32 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user ushamachine65@gmail.com"
+2024-10-31 14:22:33 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1280213,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 14:22:33 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"BABA TOOLS AND PRODUCTS ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"ushamachine65@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":2,"InterestedIn":"Tander","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9899473165","Password":"","PersonName":"Yashpal Singh ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1441,"Website":""}
+2024-10-31 14:22:33 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user ushamachine65@gmail.com"
+2024-10-31 14:22:33 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1280213,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 14:22:34 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"BABA TOOLS AND PRODUCTS ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"ushamachine65@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":2,"InterestedIn":"Tander","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9899473165","Password":"","PersonName":"Yashpal Singh ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1441,"Website":""}
+2024-10-31 14:22:34 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user ushamachine65@gmail.com"
+2024-10-31 14:22:34 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1280213,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 14:22:34 [INFO]  : Inquiry type: Tender 
+Message: "Check ushamachine65@gmail.com Unsubscribed for Email: No"
+2024-10-31 14:22:34 [INFO]  : Inquiry type: Tender 
+Message: "Check ushamachine65@gmail.com already varified: Yes"
+2024-10-31 14:22:34 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: ushamachine65@gmail.com"
+2024-10-31 14:22:34 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9899473165"
+2024-10-31 14:22:34 [INFO]  : Inquiry type: Tender 
+Message: "ushamachine65@gmail.com : Registration Done Subscription Pending"
+2024-10-31 14:22:35 [INFO]  : Inquiry type: Tender 
+Message: "Check ushamachine65@gmail.com Unsubscribed for Email: No"
+2024-10-31 14:22:35 [INFO]  : Inquiry type: Tender 
+Message: "Check ushamachine65@gmail.com already varified: No"
+2024-10-31 14:22:35 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: ushamachine65@gmail.com"
+2024-10-31 14:22:35 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9899473165"
+2024-10-31 14:22:35 [INFO]  : Inquiry type: Tender 
+Message: "ushamachine65@gmail.com : Registration Done Subscription Pending"
+2024-10-31 14:22:35 [INFO]  : Inquiry type: Tender 
+Message: "Check ushamachine65@gmail.com Unsubscribed for Email: No"
+2024-10-31 14:22:35 [INFO]  : Inquiry type: Tender 
+Message: "Check ushamachine65@gmail.com already varified: No"
+2024-10-31 14:22:35 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: ushamachine65@gmail.com"
+2024-10-31 14:22:35 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9899473165"
+2024-10-31 14:22:35 [INFO]  : Inquiry type: Tender 
+Message: "ushamachine65@gmail.com : Registration Done Subscription Pending"
+2024-10-31 14:30:17 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Sm Bari electrical services ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"sayyedamaan193@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"11 kva 33 kva transformer installation panels installation termination \n","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"700067224","Password":"","PersonName":"7000676224","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1435,"Website":""}
+2024-10-31 14:30:17 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user sayyedamaan193@gmail.com"
+2024-10-31 14:30:17 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 14:30:18 [INFO]  : Inquiry type: Tender 
+Message: "Check sayyedamaan193@gmail.com Unsubscribed for Email: No"
+2024-10-31 14:30:18 [INFO]  : Inquiry type: Tender 
+Message: "Check sayyedamaan193@gmail.com already varified: Yes"
+2024-10-31 14:30:18 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: sayyedamaan193@gmail.com"
+2024-10-31 14:30:18 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 700067224"
+2024-10-31 14:30:18 [INFO]  : Inquiry type: Tender 
+Message: "sayyedamaan193@gmail.com : Not Registered"
+2024-10-31 14:49:46 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Smratulya construction","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"smrsgr84@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"Hi","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"6203939809","Password":"","PersonName":"Sameer","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1433,"Website":""}
+2024-10-31 14:49:46 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user smrsgr84@gmail.com"
+2024-10-31 14:49:46 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1492814,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 14:49:46 [INFO]  : Inquiry type: Tender 
+Message: "Check smrsgr84@gmail.com Unsubscribed for Email: Yes"
+2024-10-31 14:49:46 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 6203939809"
+2024-10-31 14:49:46 [INFO]  : Inquiry type: Tender 
+Message: "smrsgr84@gmail.com : Registration Done Subscription Pending"
+2024-10-31 15:00:42 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Sm Bari electrical services ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"sayyedamaan193@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"11 kva transformer installation panels installation termination ","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7000676224","Password":"","PersonName":"7389014890","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1435,"Website":""}
+2024-10-31 15:00:42 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user sayyedamaan193@gmail.com"
+2024-10-31 15:00:42 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":3,\"UserId\":1493574,\"UserSubscriptionDetailId\":226995,\"OrderNo\":\"877538\"}],\"StatusCode\":200}"
+2024-10-31 15:00:44 [INFO]  : Inquiry type: Tender 
+Message: "Check sayyedamaan193@gmail.com Unsubscribed for Email: No"
+2024-10-31 15:00:44 [INFO]  : Inquiry type: Tender 
+Message: "Check sayyedamaan193@gmail.com already varified: No"
+2024-10-31 15:00:44 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: sayyedamaan193@gmail.com"
+2024-10-31 15:00:44 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7000676224"
+2024-10-31 15:00:44 [INFO]  : Inquiry type: Tender 
+Message: "sayyedamaan193@gmail.com : Subscription Done Payment Pending"
+2024-10-31 16:10:22 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Sneh Industry","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"waytexsoft@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7057591479","Password":"","PersonName":"vaishali","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1449,"Website":""}
+2024-10-31 16:10:22 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user waytexsoft@gmail.com"
+2024-10-31 16:10:22 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1485244,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 16:10:23 [INFO]  : Inquiry type: Tender 
+Message: "Check waytexsoft@gmail.com Unsubscribed for Email: No"
+2024-10-31 16:10:23 [INFO]  : Inquiry type: Tender 
+Message: "Check waytexsoft@gmail.com already varified: No"
+2024-10-31 16:10:23 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: waytexsoft@gmail.com"
+2024-10-31 16:10:23 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7057591479"
+2024-10-31 16:10:23 [INFO]  : Inquiry type: Tender 
+Message: "waytexsoft@gmail.com : Registration Done Subscription Pending"
+2024-10-31 16:22:08 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"DHM services ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"devenmenghani13@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"Technical and financial form","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9997472548","Password":"","PersonName":"Sapna Menghani","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1461,"Website":""}
+2024-10-31 16:22:08 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user devenmenghani13@gmail.com"
+2024-10-31 16:22:08 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 16:22:09 [INFO]  : Inquiry type: Tender 
+Message: "Check devenmenghani13@gmail.com Unsubscribed for Email: No"
+2024-10-31 16:22:09 [INFO]  : Inquiry type: Tender 
+Message: "Check devenmenghani13@gmail.com already varified: Yes"
+2024-10-31 16:22:09 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: devenmenghani13@gmail.com"
+2024-10-31 16:22:09 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9997472548"
+2024-10-31 16:22:09 [INFO]  : Inquiry type: Tender 
+Message: "devenmenghani13@gmail.com : Not Registered"
+2024-10-31 17:08:32 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"tirumala seeds ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"thirumalaseedssuppliers@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9440950867","Password":"","PersonName":"basha","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1430,"Website":""}
+2024-10-31 17:08:32 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user thirumalaseedssuppliers@gmail.com"
+2024-10-31 17:08:32 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":3,\"UserId\":479831,\"UserSubscriptionDetailId\":182138,\"OrderNo\":\"831696\"}],\"StatusCode\":200}"
+2024-10-31 17:08:33 [INFO]  : Inquiry type: Tender 
+Message: "Check thirumalaseedssuppliers@gmail.com Unsubscribed for Email: No"
+2024-10-31 17:08:33 [INFO]  : Inquiry type: Tender 
+Message: "Check thirumalaseedssuppliers@gmail.com already varified: No"
+2024-10-31 17:08:33 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: thirumalaseedssuppliers@gmail.com"
+2024-10-31 17:08:33 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9440950867"
+2024-10-31 17:08:33 [INFO]  : Inquiry type: Tender 
+Message: "thirumalaseedssuppliers@gmail.com : Subscription Done Payment Pending"
+2024-10-31 17:21:34 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"tirumala seeds ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"thirumalaseedssuppliers@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9440950867","Password":"","PersonName":"basha","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1430,"Website":""}
+2024-10-31 17:21:34 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user thirumalaseedssuppliers@gmail.com"
+2024-10-31 17:21:34 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":3,\"UserId\":479831,\"UserSubscriptionDetailId\":182138,\"OrderNo\":\"831696\"}],\"StatusCode\":200}"
+2024-10-31 17:21:35 [INFO]  : Inquiry type: Tender 
+Message: "Check thirumalaseedssuppliers@gmail.com Unsubscribed for Email: No"
+2024-10-31 17:21:35 [INFO]  : Inquiry type: Tender 
+Message: "Check thirumalaseedssuppliers@gmail.com already varified: No"
+2024-10-31 17:21:35 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: thirumalaseedssuppliers@gmail.com"
+2024-10-31 17:21:35 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9440950867"
+2024-10-31 17:21:35 [INFO]  : Inquiry type: Tender 
+Message: "thirumalaseedssuppliers@gmail.com : Subscription Done Payment Pending"
+2024-10-31 18:51:31 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"NGA INFRA ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"ngainfra@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":2,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"8198971215","Password":"","PersonName":"Anita ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1441,"Website":""}
+2024-10-31 18:51:31 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user ngainfra@gmail.com"
+2024-10-31 18:51:31 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 18:51:32 [INFO]  : Inquiry type: Tender 
+Message: "Check ngainfra@gmail.com Unsubscribed for Email: No"
+2024-10-31 18:51:33 [INFO]  : Inquiry type: Tender 
+Message: "Check ngainfra@gmail.com already varified: Yes"
+2024-10-31 18:51:33 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: ngainfra@gmail.com"
+2024-10-31 18:51:33 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 8198971215"
+2024-10-31 18:51:33 [INFO]  : Inquiry type: Tender 
+Message: "ngainfra@gmail.com : Not Registered"
+2024-10-31 18:54:11 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Sara construction ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"Bawal0731@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7617343678","Password":"","PersonName":"Majeed shaikh ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1448,"Website":""}
+2024-10-31 18:54:11 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user Bawal0731@gmail.com"
+2024-10-31 18:54:11 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1437347,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 18:54:12 [INFO]  : Inquiry type: Tender 
+Message: "Check Bawal0731@gmail.com Unsubscribed for Email: No"
+2024-10-31 18:54:12 [INFO]  : Inquiry type: Tender 
+Message: "Check Bawal0731@gmail.com already varified: No"
+2024-10-31 18:54:12 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: Bawal0731@gmail.com"
+2024-10-31 18:54:12 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7617343678"
+2024-10-31 18:54:12 [INFO]  : Inquiry type: Tender 
+Message: "Bawal0731@gmail.com : Registration Done Subscription Pending"
+2024-10-31 18:59:57 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"royal construction","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"harshswami69@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":2,"InterestedIn":"soil testing leads","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9599123437","Password":"","PersonName":"harsh","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":4990,"Website":""}
+2024-10-31 18:59:57 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user harshswami69@gmail.com"
+2024-10-31 18:59:57 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 18:59:58 [INFO]  : Inquiry type: Tender 
+Message: "Check harshswami69@gmail.com Unsubscribed for Email: No"
+2024-10-31 18:59:58 [INFO]  : Inquiry type: Tender 
+Message: "Check harshswami69@gmail.com already varified: Yes"
+2024-10-31 18:59:58 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: harshswami69@gmail.com"
+2024-10-31 18:59:58 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9599123437"
+2024-10-31 18:59:58 [INFO]  : Inquiry type: Tender 
+Message: "harshswami69@gmail.com : Not Registered"
+2024-10-31 19:23:40 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"SZ SEALS INDIA","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"szsealsindia@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":2,"InterestedIn":"i need rubber parts order","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"8910756156","Password":"","PersonName":"Manirul Tarafdar","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1463,"Website":""}
+2024-10-31 19:23:40 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user szsealsindia@gmail.com"
+2024-10-31 19:23:40 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 19:23:42 [INFO]  : Inquiry type: Tender 
+Message: "Check szsealsindia@gmail.com Unsubscribed for Email: No"
+2024-10-31 19:23:42 [INFO]  : Inquiry type: Tender 
+Message: "Check szsealsindia@gmail.com already varified: Yes"
+2024-10-31 19:23:42 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: szsealsindia@gmail.com"
+2024-10-31 19:23:42 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 8910756156"
+2024-10-31 19:23:42 [INFO]  : Inquiry type: Tender 
+Message: "szsealsindia@gmail.com : Not Registered"
+2024-10-31 19:57:29 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Jay jalaram ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"jadavyuvraaj25@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"7041641197","Password":"","PersonName":"Y.m jadav","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1440,"Website":""}
+2024-10-31 19:57:29 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user jadavyuvraaj25@gmail.com"
+2024-10-31 19:57:29 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 19:57:30 [INFO]  : Inquiry type: Tender 
+Message: "Check jadavyuvraaj25@gmail.com Unsubscribed for Email: No"
+2024-10-31 19:57:30 [INFO]  : Inquiry type: Tender 
+Message: "Check jadavyuvraaj25@gmail.com already varified: Yes"
+2024-10-31 19:57:30 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: jadavyuvraaj25@gmail.com"
+2024-10-31 19:57:30 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 7041641197"
+2024-10-31 19:57:30 [INFO]  : Inquiry type: Tender 
+Message: "jadavyuvraaj25@gmail.com : Not Registered"
+2024-10-31 20:04:18 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Jay dwarkes","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"ramram27987@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"Jcb","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9978231920","Password":"","PersonName":"ram","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":4990,"Website":""}
+2024-10-31 20:04:18 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user ramram27987@gmail.com"
+2024-10-31 20:04:18 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 20:04:19 [INFO]  : Inquiry type: Tender 
+Message: "Check ramram27987@gmail.com Unsubscribed for Email: No"
+2024-10-31 20:04:19 [INFO]  : Inquiry type: Tender 
+Message: "Check ramram27987@gmail.com already varified: Yes"
+2024-10-31 20:04:19 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: ramram27987@gmail.com"
+2024-10-31 20:04:19 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9978231920"
+2024-10-31 20:04:19 [INFO]  : Inquiry type: Tender 
+Message: "ramram27987@gmail.com : Not Registered"
+2024-10-31 20:05:29 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"WhatsApp Inquiry","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"ramram27987@gmail.com","ExhibitionId":0,"InterestedIn":"80287680","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9978231920","Password":"","PersonName":"","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":4974,"Website":""}
+2024-10-31 20:05:29 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user ramram27987@gmail.com"
+2024-10-31 20:05:29 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1493582,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 20:05:30 [INFO]  : Inquiry type: Tender 
+Message: "Check ramram27987@gmail.com Unsubscribed for Email: No"
+2024-10-31 20:05:30 [INFO]  : Inquiry type: Tender 
+Message: "Check ramram27987@gmail.com already varified: No"
+2024-10-31 20:05:30 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: ramram27987@gmail.com"
+2024-10-31 20:05:30 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9978231920"
+2024-10-31 20:05:30 [INFO]  : Inquiry type: Tender 
+Message: "ramram27987@gmail.com : Registration Done Subscription Pending"
+2024-10-31 20:10:31 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Ayodhya enterprises ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"vadherranjit51@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"Toll plaza","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9687366212","Password":"","PersonName":"Ranjit Vadher","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1440,"Website":""}
+2024-10-31 20:10:31 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user vadherranjit51@gmail.com"
+2024-10-31 20:10:35 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 20:11:30 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Ayodhya enterprises ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"Vadherranjit51@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"Toll plaza","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9687366212","Password":"","PersonName":"Ranjit Vadher","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1440,"Website":""}
+2024-10-31 20:11:30 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user Vadherranjit51@gmail.com"
+2024-10-31 20:11:30 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 20:11:31 [INFO]  : Inquiry type: Tender 
+Message: "Check Vadherranjit51@gmail.com Unsubscribed for Email: No"
+2024-10-31 20:11:31 [INFO]  : Inquiry type: Tender 
+Message: "Check Vadherranjit51@gmail.com already varified: Yes"
+2024-10-31 20:11:31 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: Vadherranjit51@gmail.com"
+2024-10-31 20:11:31 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9687366212"
+2024-10-31 20:11:31 [INFO]  : Inquiry type: Tender 
+Message: "Vadherranjit51@gmail.com : Not Registered"
+2024-10-31 20:11:31 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Ayodhya enterprises ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"Vadherranjit51@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"Toll plaza","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9687366212","Password":"","PersonName":"Ranjit Vadher","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1440,"Website":""}
+2024-10-31 20:11:31 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user Vadherranjit51@gmail.com"
+2024-10-31 20:11:31 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 20:11:32 [INFO]  : Inquiry type: Tender 
+Message: "Check Vadherranjit51@gmail.com Unsubscribed for Email: No"
+2024-10-31 20:11:32 [INFO]  : Inquiry type: Tender 
+Message: "Check Vadherranjit51@gmail.com already varified: No"
+2024-10-31 20:11:32 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: Vadherranjit51@gmail.com"
+2024-10-31 20:11:32 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9687366212"
+2024-10-31 20:11:32 [INFO]  : Inquiry type: Tender 
+Message: "Vadherranjit51@gmail.com : Not Registered"
+2024-10-31 20:23:37 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"WhatsApp Inquiry","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"e.ramesh.b@gmail.com","ExhibitionId":0,"InterestedIn":"82211797","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9597312305","Password":"","PersonName":"","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":4974,"Website":""}
+2024-10-31 20:23:37 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user e.ramesh.b@gmail.com"
+2024-10-31 20:23:37 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":837190,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 20:23:38 [INFO]  : Inquiry type: Tender 
+Message: "Check e.ramesh.b@gmail.com Unsubscribed for Email: No"
+2024-10-31 20:23:38 [INFO]  : Inquiry type: Tender 
+Message: "Check e.ramesh.b@gmail.com already varified: Yes"
+2024-10-31 20:23:38 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: e.ramesh.b@gmail.com"
+2024-10-31 20:23:38 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9597312305"
+2024-10-31 20:23:38 [INFO]  : Inquiry type: Tender 
+Message: "e.ramesh.b@gmail.com : Registration Done Subscription Pending"
+2024-10-31 21:01:46 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"new bombay tr","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"ramankumarnbi@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"we are manufacturer in ludhiana","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9988457247","Password":"","PersonName":"raman kumar","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1456,"Website":""}
+2024-10-31 21:01:46 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user ramankumarnbi@gmail.com"
+2024-10-31 21:01:46 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 21:01:47 [INFO]  : Inquiry type: Tender 
+Message: "Check ramankumarnbi@gmail.com Unsubscribed for Email: No"
+2024-10-31 21:01:47 [INFO]  : Inquiry type: Tender 
+Message: "Check ramankumarnbi@gmail.com already varified: Yes"
+2024-10-31 21:01:47 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: ramankumarnbi@gmail.com"
+2024-10-31 21:01:47 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9988457247"
+2024-10-31 21:01:47 [INFO]  : Inquiry type: Tender 
+Message: "ramankumarnbi@gmail.com : Not Registered"
+2024-10-31 21:02:08 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"WhatsApp Inquiry","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"ramankumarnbi@gmail.com","ExhibitionId":0,"InterestedIn":"81917231","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9988457247","Password":"","PersonName":"","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":4974,"Website":""}
+2024-10-31 21:02:08 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user ramankumarnbi@gmail.com"
+2024-10-31 21:02:08 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1493584,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 21:02:09 [INFO]  : Inquiry type: Tender 
+Message: "Check ramankumarnbi@gmail.com Unsubscribed for Email: No"
+2024-10-31 21:02:09 [INFO]  : Inquiry type: Tender 
+Message: "Check ramankumarnbi@gmail.com already varified: No"
+2024-10-31 21:02:09 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: ramankumarnbi@gmail.com"
+2024-10-31 21:02:09 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9988457247"
+2024-10-31 21:02:09 [INFO]  : Inquiry type: Tender 
+Message: "ramankumarnbi@gmail.com : Registration Done Subscription Pending"
+2024-10-31 21:02:51 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"new bombay tr","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"ramankumarnbi@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":2,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9988457247","Password":"","PersonName":"raman kumar","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1456,"Website":""}
+2024-10-31 21:02:51 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user ramankumarnbi@gmail.com"
+2024-10-31 21:02:51 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1493584,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 21:02:52 [INFO]  : Inquiry type: Tender 
+Message: "Check ramankumarnbi@gmail.com Unsubscribed for Email: No"
+2024-10-31 21:02:52 [INFO]  : Inquiry type: Tender 
+Message: "Check ramankumarnbi@gmail.com already varified: No"
+2024-10-31 21:02:52 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: ramankumarnbi@gmail.com"
+2024-10-31 21:02:52 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9988457247"
+2024-10-31 21:02:52 [INFO]  : Inquiry type: Tender 
+Message: "ramankumarnbi@gmail.com : Registration Done Subscription Pending"
+2024-10-31 21:09:10 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Chamunda engineering","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"mishraabhishek1111@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9664874816","Password":"","PersonName":"ERCPM6481A","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1440,"Website":""}
+2024-10-31 21:09:10 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user mishraabhishek1111@gmail.com"
+2024-10-31 21:09:10 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 21:09:11 [INFO]  : Inquiry type: Tender 
+Message: "Check mishraabhishek1111@gmail.com Unsubscribed for Email: No"
+2024-10-31 21:09:11 [INFO]  : Inquiry type: Tender 
+Message: "Check mishraabhishek1111@gmail.com already varified: Yes"
+2024-10-31 21:09:11 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: mishraabhishek1111@gmail.com"
+2024-10-31 21:09:11 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9664874816"
+2024-10-31 21:09:11 [INFO]  : Inquiry type: Tender 
+Message: "mishraabhishek1111@gmail.com : Not Registered"
+2024-10-31 21:16:10 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Chetnainfrabuild","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"purushottamkumarsahusahu4@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"Renovation civil construction ","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9406352135","Password":"","PersonName":"Purushottam sahu","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1435,"Website":""}
+2024-10-31 21:16:10 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user purushottamkumarsahusahu4@gmail.com"
+2024-10-31 21:16:10 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 21:16:11 [INFO]  : Inquiry type: Tender 
+Message: "Check purushottamkumarsahusahu4@gmail.com Unsubscribed for Email: No"
+2024-10-31 21:16:11 [INFO]  : Inquiry type: Tender 
+Message: "Check purushottamkumarsahusahu4@gmail.com already varified: Yes"
+2024-10-31 21:16:11 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: purushottamkumarsahusahu4@gmail.com"
+2024-10-31 21:16:11 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9406352135"
+2024-10-31 21:16:11 [INFO]  : Inquiry type: Tender 
+Message: "purushottamkumarsahusahu4@gmail.com : Not Registered"
+2024-10-31 21:25:31 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Ganesh dada ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"gajananmundesoni@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"Transport ","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"8080986453","Password":"","PersonName":"8080986453","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1449,"Website":""}
+2024-10-31 21:25:31 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user gajananmundesoni@gmail.com"
+2024-10-31 21:25:31 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":3,\"UserId\":1492187,\"UserSubscriptionDetailId\":226008,\"OrderNo\":\"876366\"}],\"StatusCode\":200}"
+2024-10-31 21:25:32 [INFO]  : Inquiry type: Tender 
+Message: "Check gajananmundesoni@gmail.com Unsubscribed for Email: No"
+2024-10-31 21:25:32 [INFO]  : Inquiry type: Tender 
+Message: "Check gajananmundesoni@gmail.com already varified: No"
+2024-10-31 21:25:32 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: gajananmundesoni@gmail.com"
+2024-10-31 21:25:32 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 8080986453"
+2024-10-31 21:25:32 [INFO]  : Inquiry type: Tender 
+Message: "gajananmundesoni@gmail.com : Subscription Done Payment Pending"
+2024-10-31 22:00:33 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Debt recovery technologies","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"madhu1975balaji@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"Recovery agent tender documents ","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9972049814","Password":"","PersonName":"Madhusudhan","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1445,"Website":""}
+2024-10-31 22:00:33 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user madhu1975balaji@gmail.com"
+2024-10-31 22:00:33 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":4,\"UserId\":1359042,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 22:00:34 [INFO]  : Inquiry type: Tender 
+Message: "Check madhu1975balaji@gmail.com Unsubscribed for Email: No"
+2024-10-31 22:00:34 [INFO]  : Inquiry type: Tender 
+Message: "Check madhu1975balaji@gmail.com already varified: Yes"
+2024-10-31 22:00:34 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: madhu1975balaji@gmail.com"
+2024-10-31 22:00:34 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9972049814"
+2024-10-31 22:00:34 [INFO]  : Inquiry type: Tender 
+Message: "madhu1975balaji@gmail.com : Registration Done Subscription Pending"
+2024-10-31 22:09:17 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Dusad Electricals","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"ritwikkhandelwal09@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9983097999","Password":"","PersonName":"Ritwik Khandelwal","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1457,"Website":""}
+2024-10-31 22:09:17 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user ritwikkhandelwal09@gmail.com"
+2024-10-31 22:09:17 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 22:09:18 [INFO]  : Inquiry type: Tender 
+Message: "Check ritwikkhandelwal09@gmail.com Unsubscribed for Email: No"
+2024-10-31 22:09:18 [INFO]  : Inquiry type: Tender 
+Message: "Check ritwikkhandelwal09@gmail.com already varified: Yes"
+2024-10-31 22:09:18 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: ritwikkhandelwal09@gmail.com"
+2024-10-31 22:09:18 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9983097999"
+2024-10-31 22:09:18 [INFO]  : Inquiry type: Tender 
+Message: "ritwikkhandelwal09@gmail.com : Not Registered"
+2024-10-31 22:11:28 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"DEELLP","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"ritwikkhandelwal09@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9983097999","Password":"","PersonName":"Samyak Khandelwal","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1457,"Website":""}
+2024-10-31 22:11:28 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user ritwikkhandelwal09@gmail.com"
+2024-10-31 22:11:28 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":3,\"UserId\":1493588,\"UserSubscriptionDetailId\":227003,\"OrderNo\":\"877549\"}],\"StatusCode\":200}"
+2024-10-31 22:11:29 [INFO]  : Inquiry type: Tender 
+Message: "Check ritwikkhandelwal09@gmail.com Unsubscribed for Email: No"
+2024-10-31 22:11:29 [INFO]  : Inquiry type: Tender 
+Message: "Check ritwikkhandelwal09@gmail.com already varified: No"
+2024-10-31 22:11:29 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: ritwikkhandelwal09@gmail.com"
+2024-10-31 22:11:29 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9983097999"
+2024-10-31 22:11:29 [INFO]  : Inquiry type: Tender 
+Message: "ritwikkhandelwal09@gmail.com : Subscription Done Payment Pending"
+2024-10-31 22:53:42 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"ARQ INTERNATIONAL","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"arq.int2018@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"indian tender information","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9560586904","Password":"","PersonName":"Aquib ur rehman","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1438,"Website":""}
+2024-10-31 22:53:42 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user arq.int2018@gmail.com"
+2024-10-31 22:53:42 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":3,\"UserId\":1493589,\"UserSubscriptionDetailId\":227004,\"OrderNo\":\"877550\"}],\"StatusCode\":200}"
+2024-10-31 22:53:43 [INFO]  : Inquiry type: Tender 
+Message: "Check arq.int2018@gmail.com Unsubscribed for Email: No"
+2024-10-31 22:53:43 [INFO]  : Inquiry type: Tender 
+Message: "Check arq.int2018@gmail.com already varified: Yes"
+2024-10-31 22:53:43 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: arq.int2018@gmail.com"
+2024-10-31 22:53:43 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9560586904"
+2024-10-31 22:53:43 [INFO]  : Inquiry type: Tender 
+Message: "arq.int2018@gmail.com : Subscription Done Payment Pending"
+2024-10-31 22:55:08 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Choudhari","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"ku839036@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"Ok ","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9892281926","Password":"","PersonName":"Uabed khan ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1449,"Website":""}
+2024-10-31 22:55:08 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user ku839036@gmail.com"
+2024-10-31 22:55:08 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 22:55:09 [INFO]  : Inquiry type: Tender 
+Message: "Check ku839036@gmail.com Unsubscribed for Email: No"
+2024-10-31 22:55:09 [INFO]  : Inquiry type: Tender 
+Message: "Check ku839036@gmail.com already varified: Yes"
+2024-10-31 22:55:09 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: ku839036@gmail.com"
+2024-10-31 22:55:09 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9892281926"
+2024-10-31 22:55:09 [INFO]  : Inquiry type: Tender 
+Message: "ku839036@gmail.com : Not Registered"
+2024-10-31 23:13:55 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"SSA TRADERS ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"ayaanff13@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"Raw material suppliers ","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"8582928063","Password":"","PersonName":"Md. Ayaan ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1463,"Website":""}
+2024-10-31 23:13:55 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user ayaanff13@gmail.com"
+2024-10-31 23:13:55 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 23:13:56 [INFO]  : Inquiry type: Tender 
+Message: "Check ayaanff13@gmail.com Unsubscribed for Email: No"
+2024-10-31 23:13:56 [INFO]  : Inquiry type: Tender 
+Message: "Check ayaanff13@gmail.com already varified: Yes"
+2024-10-31 23:13:56 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: ayaanff13@gmail.com"
+2024-10-31 23:13:56 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 8582928063"
+2024-10-31 23:13:56 [INFO]  : Inquiry type: Tender 
+Message: "ayaanff13@gmail.com : Not Registered"
+2024-10-31 23:14:06 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Path india ltd","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"ghoshbapi416@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"8250887784","Password":"","PersonName":"BAPI Ghosh ","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1463,"Website":""}
+2024-10-31 23:14:06 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user ghoshbapi416@gmail.com"
+2024-10-31 23:14:06 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":3,\"UserId\":1479488,\"UserSubscriptionDetailId\":221698,\"OrderNo\":\"871553\"}],\"StatusCode\":200}"
+2024-10-31 23:14:07 [INFO]  : Inquiry type: Tender 
+Message: "Check ghoshbapi416@gmail.com Unsubscribed for Email: No"
+2024-10-31 23:14:07 [INFO]  : Inquiry type: Tender 
+Message: "Check ghoshbapi416@gmail.com already varified: No"
+2024-10-31 23:14:07 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: ghoshbapi416@gmail.com"
+2024-10-31 23:14:07 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 8250887784"
+2024-10-31 23:14:07 [INFO]  : Inquiry type: Tender 
+Message: "ghoshbapi416@gmail.com : Subscription Done Payment Pending"
+2024-10-31 23:22:16 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Tmt ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"hsoniraj9151@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":1,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9151596680","Password":"","PersonName":"niraj pandey","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1461,"Website":""}
+2024-10-31 23:22:16 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user hsoniraj9151@gmail.com"
+2024-10-31 23:22:16 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 23:22:17 [INFO]  : Inquiry type: Tender 
+Message: "Check hsoniraj9151@gmail.com Unsubscribed for Email: No"
+2024-10-31 23:22:17 [INFO]  : Inquiry type: Tender 
+Message: "Check hsoniraj9151@gmail.com already varified: Yes"
+2024-10-31 23:22:17 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: hsoniraj9151@gmail.com"
+2024-10-31 23:22:17 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9151596680"
+2024-10-31 23:22:17 [INFO]  : Inquiry type: Tender 
+Message: "hsoniraj9151@gmail.com : Not Registered"
+2024-10-31 23:46:25 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"Krishna","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"krushnatambde31@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":2,"InterestedIn":"Cab","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"8668520207","Password":"","PersonName":"Krishna tambde Tambde","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1449,"Website":""}
+2024-10-31 23:46:25 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user krushnatambde31@gmail.com"
+2024-10-31 23:46:25 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 23:46:26 [INFO]  : Inquiry type: Tender 
+Message: "Check krushnatambde31@gmail.com Unsubscribed for Email: No"
+2024-10-31 23:46:26 [INFO]  : Inquiry type: Tender 
+Message: "Check krushnatambde31@gmail.com already varified: Yes"
+2024-10-31 23:46:26 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: krushnatambde31@gmail.com"
+2024-10-31 23:46:26 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 8668520207"
+2024-10-31 23:46:26 [INFO]  : Inquiry type: Tender 
+Message: "krushnatambde31@gmail.com : Not Registered"
+2024-10-31 23:53:16 [INFO]  : Inquiry type: Tender regiser form data:-  
+Message: {"City":"","CompanyName":"AKhtar khan ","CompanyServiceID":1,"ContactAddress":"","CountryID":101,"Designation":"","DivisionName":"","EmailId":"saifalikhan6289@gmail.com","EventType":"","ExhibitionId":0,"InquiryType":0,"InterestedIn":"","IsMainLead":0,"LeadSourceID":0,"MobileCode":"","MobileNo":"9279328359","Password":"","PersonName":"Akhtar khan","PhoneCode":"","PhoneNo":"","SkypeId":"","StateID":1444,"Website":""}
+2024-10-31 23:53:16 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to sales team for user saifalikhan6289@gmail.com"
+2024-10-31 23:53:16 [INFO]  : Inquiry type: Tender 
+Message: "duplicate Email check Response: {\"Success\":true,\"Message\":\"success\",\"TotalRecord\":1,\"IsAuthFailure\":true,\"Data\":[{\"UserStatus\":5,\"UserId\":null,\"UserSubscriptionDetailId\":null,\"OrderNo\":null}],\"StatusCode\":200}"
+2024-10-31 23:53:17 [INFO]  : Inquiry type: Tender 
+Message: "Check saifalikhan6289@gmail.com Unsubscribed for Email: No"
+2024-10-31 23:53:17 [INFO]  : Inquiry type: Tender 
+Message: "Check saifalikhan6289@gmail.com already varified: Yes"
+2024-10-31 23:53:17 [INFO]  : Inquiry type: Tender 
+Message: "Mail Sent to User For Email Varification and Meeting schedule. \n user: saifalikhan6289@gmail.com"
+2024-10-31 23:53:17 [INFO]  : Inquiry type: Tender 
+Message: "sms and whatsApp message Sent to User on MobileNo: 9279328359"
+2024-10-31 23:53:17 [INFO]  : Inquiry type: Tender 
+Message: "saifalikhan6289@gmail.com : Not Registered"
